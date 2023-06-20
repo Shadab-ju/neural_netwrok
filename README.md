@@ -3,9 +3,9 @@ This is a neural network from scratch. It uses mathematical formula to adjust pa
 
 # How prediction is made:
 
-![alt_text](https://github.com/Shadab-ju/neural_netwrok/blob/main/digit_img.png)
-Above image has 784 pixel that is stored in __array[28][28]__.
+![alt_text](https://github.com/Shadab-ju/neural_netwrok/blob/main/digit_img.png)  
 
+Above image has 784 pixel that is stored in __array[28][28]__.
 This image data is fed to the model after traing and model predicts a digit based on array value.
 
 
